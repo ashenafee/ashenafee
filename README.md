@@ -1,34 +1,25 @@
-### @ashenafee
-
-#### About Me
+# @ashenafee
 
 [![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafee)](https://github.com/ashenafee)
 
-- 👋🏾 Hey! My name's Ashenafee, but most people know me as Ash.
-- 📚 I'm studying a Bioinformatics & Computational Biology specialist and Neuroscience major at the University of Toronto.
+## 👋🏾 About Me
 
-<!--
-**ashenafee/ashenafee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! My name's Ashenafee, but most people know me as Ash.
 
-Here are some ideas to get you started:
+## 📚 Education & Affiliation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm studying Bioinformatics & Computational Biology, Computer Science, and Neuroscience at the University of Toronto. Alongside my usual coursework, I work on social behaviour in zebrafish with the [Lin Lab](https://lin.csb.utoronto.ca/) in the Department of CSB at UofT, as well as creating prototyping tools as a member of the [DGP Lab](https://www.dgp.toronto.edu/) in the Department of CS at UofT.
 
-#### Currently
+## ⚙️ Current Projects
 
-[![CiteThat Card](https://github-readme-stats.vercel.app/api/pin/?username=ashenafee&repo=CiteThat)](https://github.com/ashenafee/CiteThat)
+I'm working on a couple of projects right now, including:
 
-I'm working on a Vue web application to help create citations given a PubMed article; for when a citation is quickly required.
+- socialiZe: A web app to help manipulate and analyze the social behaviour of zebrafish.
+- **[Bridge](https://github.com/ashenafee/bridge)**: A toolkit to help speed up evolutionary biology workflows.
 
-#### Developer Toolkit
+If you don't see a link to a project, don't worry! That means it's either part of my studies/research or the work is not public yet. I'm always for open-sourcing software and will do so whenever possible!
+
+## 🧰 Developer Toolkit
 👀 Here's a peek at some of the technologies I know and use:
 
   | Technology | Example |
