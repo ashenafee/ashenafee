@@ -1,31 +1,23 @@
 # @ashenafee
 
-[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafee)](https://github.com/ashenafee)
-
 ## 👋🏾 About Me
 
-Hey! My name's Ashenafee, but most people know me as Ash.
+Hey there! My name's Ashenafee, but most people know me as Ash. I'm a graduate student pursuing an MSc in Applied Computing at the University of Toronto, specializing in Data Science for Biology. My work bridges biology and computer science, with a focus on understanding neural circuits and social behavior using computational tools.
 
 ## 📚 Education & Affiliation
 
-I'm studying Bioinformatics & Computational Biology, Computer Science, and Neuroscience at the University of Toronto. Alongside my usual coursework, I work on social behaviour in zebrafish with the [Lin Lab](https://lin.csb.utoronto.ca/) in the Department of CSB at UofT, as well as creating prototyping tools as a member of the [DGP Lab](https://www.dgp.toronto.edu/) in the Department of CS at UofT.
+I'm currently part of the [Lin Lab](https://lin.csb.utoronto.ca/) in the Department of Cell & Systems Biology at UofT, where I develop tools to analyze zebrafish social behavior. Previously, I collaborated with the [Dynamic Graphics Project (DGP)](https://www.dgp.toronto.edu/) in the Department of Computer Science, working on VR tools to enable rapid prototyping. I also hold an Honours BSc in Bioinformatics & Computational Biology with majors in Computer Science and Neuroscience.
 
 ## ⚙️ Current Projects
 
-I'm working on a couple of projects right now, including:
+Here are some of the projects I’m actively working on:
 
-- socialiZe: A web app to help manipulate and analyze the social behaviour of zebrafish.
-- **[Bridge](https://github.com/ashenafee/bridge)**: A toolkit to help speed up evolutionary biology workflows.
+- **socialiZe**: A web app to simulate and analyze zebrafish social behavior.
+- **larvalabeler**: A Python package for semi-automated labeling of zebrafish larvae images to accelerate image annotation.
+- **movector**: A TypeScript library for animating shapes along paths with fish-like motion.
 
-If you don't see a link to a project, don't worry! That means it's either part of my studies/research or the work is not public yet. I'm always for open-sourcing software and will do so whenever possible!
+If you don’t see a link to a project, it’s likely part of ongoing research or private collaboration. I’m a big proponent of open-source software and aim to make my work publicly available whenever possible.
 
-## 🧰 Developer Toolkit
-👀 Here's a peek at some of the technologies I know and use:
+## 🌟 Let’s Connect
 
-  | Technology | Example |
-  |------------|---------|
-  | [Biopython](https://biopython.org/) | [Bridge](https://github.com/ashenafee/bridge) |
-  |     [React](https://react.dev/)       |   [Restify](https://github.com/ashenafee/Restify)      |
-  |    [Svelte](https://svelte.dev/)        |   [Portfolio](https://www.ashenafee.com/)      |
-  |  [Vue.js](https://vuejs.org/)          |    [CiteThat](https://github.com/ashenafee/CiteThat)     |
-
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ashenafee/) or [personal website](https://www.cs.toronto.edu/~ashenafee) to learn more about my work. I’m always excited to connect with like-minded individuals and collaborate on impactful projects!
