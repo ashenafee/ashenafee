@@ -20,7 +20,7 @@ My current research and professional work focus on building robust representatio
 
 ## 🔧 Technical Interests
 
-- **Machine Learning**: Foundation Models, Representation Learning, Generative Modeling.
+- **Machine Learning**: Foundation Models, Representation Learning, Generative Modelling.
 - **Biology**: Computational Genomics, Single-cell Analysis, CRISPR Perturbational Screens.
 
 ## 🌟 Let's Connect
