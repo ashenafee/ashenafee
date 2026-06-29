@@ -6,4 +6,4 @@ I recently completed my MScAC in Data Science for Biology at the University of T
 
 Outside of AIxBio, I like building useful things around the problems I care about, especially when they make technical workflows easier to understand or automate.
 
-[Website](https://www.cs.toronto.edu/~ashenafee) · [LinkedIn](https://www.linkedin.com/in/ashenafee/)
+[Website](https://ashenafee.com) · [LinkedIn](https://www.linkedin.com/in/ashenafee/)
